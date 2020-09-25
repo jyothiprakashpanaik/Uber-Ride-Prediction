@@ -1,4 +1,4 @@
-# Flight Fare Prediction: 
+# Weekly Rides Prediction for Uber: 
 
 ## Table of Content
   * [Demo](#demo)
