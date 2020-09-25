@@ -1,0 +1,58 @@
+:focus { outline: 1px dashed red; }
+
+body{
+	background: #FEAC5E;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #4BC0C8, #C779D0, #FEAC5E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-family: Tahoma, Geneva, sans-serif;
+    text-align:center;
+	font-size: 51px;
+	font-weight: normal;
+}
+outter--container{
+	text-align:center;
+	
+}
+
+form{
+	 margin: auto;
+    width: 50%;
+}
+
+input{
+	width:100%;
+	padding:10px;
+	margin:5px;
+}
+
+button {
+	  background-color: burlywood; /* Green */
+	  border: none;
+	  color: white;
+	  padding: 15px 32px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+	  margin: 4px 2px;
+	  cursor: pointer;
+      width: 50%;
+}    
+
+.inner--container {
+	display: flex;
+    justify-content: center;
+    align-items: center;
+  
+	
+}
+p{
+	text-align: center;
+    	font-weight: 100;
+   
+
+}
